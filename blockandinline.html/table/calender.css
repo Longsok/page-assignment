@@ -1,0 +1,35 @@
+table{
+    width: 80%;
+    margin: auto;
+    height: 10vh;
+    background-color: white;
+    table-layout: fixed;
+}
+th{
+    height: 10vh;
+    text-align: center;
+    background-color: pink
+}
+td{
+    height: 10vh;
+    text-align: center;
+    background-color: silver;
+}
+.Jan{
+    background-color: gold;
+}
+.Mar{
+    background-color: gold;
+}
+.Graduate{
+    border: 3px dotted red;
+}
+.VD{
+    background-image: url("https://images.news18.com/ibnlive/uploads/2022/02/valentines-day-1.jpg");
+    background-size: cover;
+}
+.BD{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDh3fv4NRuXeP29HgsHH51Wu_01Vvpk3T6lA&usqp=CAU");
+    background-size: cover;
+}
+

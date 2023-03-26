@@ -1,0 +1,15 @@
+table, th, td{
+    border-width: 1px;
+    border-style: groove;
+    border-color: gold;
+    border-collapse: collapse;
+}
+tr:hover{
+    background-color: blueviolet;
+}
+/* tr:nth-child(2n){
+    background-color: blue;
+}
+tr:nth-child(2n+1){
+    background-color: red;
+} */
